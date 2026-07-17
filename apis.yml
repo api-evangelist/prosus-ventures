@@ -1,0 +1,84 @@
+aid: prosus-ventures
+name: Prosus Ventures
+description: >-
+  Prosus Ventures is the venture-capital arm of Prosus, the Amsterdam-headquartered global consumer-internet
+  and technology group (part of the Naspers group), founded in 2015 to make early-stage and growth-stage
+  technology investments in high-growth markets outside the United States and China. The firm invests to
+  "fuel the ecommerce flywheel," backing companies across food delivery, fintech, consumer services,
+  logistics, e-commerce and marketplaces, plus a strong and growing focus on early-stage AI startups that
+  reshape the e-commerce value chain (shopping and advertising tech, customer support, AI agents and
+  operations) and frontier technologies such as quantum computing, robotics, space and biotech. Prosus
+  Ventures typically invests from seed through Series B and into growth rounds, with a primary geographic
+  focus on India, Latin America and Europe, plus activity in Southeast Asia, the Middle East and ANZ. In
+  fiscal year 2025 the group committed and invested over $400 million across 40+ closed transactions,
+  including roughly $88 million into AI. Its public portfolio spans 80+ companies including Meesho, Urban
+  Company, PharmEasy, Klar, ElasticRun, BandLab, Ema, Corti and Oxford Ionics. The venture team is led by
+  CEO Martin Tschopp with regional heads across India, Europe, Southeast Asia and the Middle East.
+image: https://www.prosus.com/favicon.ico
+x-type: venture-capital
+x-category: Corporate VC
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Corporate VC
+  - Seed
+  - Series A
+  - Series B
+  - Growth
+  - Ecommerce
+  - Fintech
+  - Artificial Intelligence
+  - Marketplaces
+  - Food Delivery
+  - Logistics
+  - India
+  - Latin America
+  - Europe
+  - Amsterdam
+apis: []
+common:
+  - type: Website
+    url: https://www.prosus.com/
+  - type: Portfolio
+    url: https://www.prosus.com/prosus-ventures
+  - type: Portfolio
+    url: portfolio/prosus-ventures-portfolio.yml
+  - type: Team
+    url: team/prosus-ventures-team.yml
+  - type: InvestmentThesis
+    url: https://www.prosus.com/prosus-ventures
+  - type: Blog
+    url: https://www.prosus.com/our-insights
+  - type: News
+    url: https://www.prosus.com/our-insights
+  - type: Jobs
+    url: https://jobs.eu.lever.co/prosus
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/prosus-ventures
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/prosus
+  - type: Features
+    data:
+      - "Stage: Seed through Series B and growth"
+      - "Sectors: ecommerce & marketplaces, fintech, food delivery & logistics, consumer services, AI, frontier tech (quantum, robotics, space, biotech)"
+      - "Geography: India, Latin America, Europe (plus SE Asia, Middle East, ANZ)"
+      - "FY2025 deployment: $400M+ across 40+ transactions, ~$88M into AI (self-reported)"
+      - "Portfolio: 80+ public companies"
+      - "Founded: 2015"
+      - "HQ: Amsterdam, Netherlands"
+      - "Parent: Prosus / Naspers"
+    sources:
+      - https://www.prosus.com/prosus-ventures
+      - https://en.wikipedia.org/wiki/Prosus
+      - https://www.crunchbase.com/organization/prosus-ventures
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: Prosus Ventures
+    url: https://www.prosus.com/prosus-ventures

@@ -14,6 +14,17 @@ description: >-
   including roughly $88 million into AI. Its public portfolio spans 80+ companies including Meesho, Urban
   Company, PharmEasy, Klar, ElasticRun, BandLab, Ema, Corti and Oxford Ionics. The venture team is led by
   CEO Martin Tschopp with regional heads across India, Europe, Southeast Asia and the Middle East.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.prosus.com/favicon.ico
 x-type: venture-capital
 x-category: Corporate VC

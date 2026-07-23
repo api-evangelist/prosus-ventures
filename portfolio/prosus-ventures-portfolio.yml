@@ -3,9 +3,9 @@ method: searched
 source: https://www.prosus.com/prosus-ventures
 summary:
   portfolio_total: 85
-  in_network: 5
-  api_providers: 3
-  missing: 80
+  in_network: 85
+  api_providers: 13
+  missing: 0
   stubs_created: 0
 companies:
 - name: 99minutos
@@ -15,9 +15,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: 99minutos
+  slug: 99minutos
+  matched_by: domain
 - name: Advolve.AI
   url: https://advolve.ai
   description: AI-powered advertising and marketing optimization platform.
@@ -25,9 +26,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: advolveai
+  slug: advolveai
+  matched_by: domain
 - name: Airmeet
   url: https://airmeet.com
   description: Virtual events and webinar engagement platform.
@@ -35,9 +37,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: airmeet
+  in_network: true
+  is_api_provider: true
+  slug: airmeet
+  matched_by: domain
 - name: Arivihan
   url: https://arivihan.com
   description: AI-driven online learning platform for Indian students.
@@ -45,9 +48,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: arivihan
+  slug: arivihan
+  matched_by: domain
 - name: Aruna
   url: https://aruna.id
   description: Fisheries commerce and supply-chain marketplace in Indonesia.
@@ -55,9 +59,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aruna
+  slug: aruna
+  matched_by: domain
 - name: Avant Arte
   url: https://avantarte.com
   description: Digital marketplace for collecting contemporary art.
@@ -65,9 +70,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: avant-arte
+  slug: avant-arte
+  matched_by: domain
 - name: Azos
   url: https://azos.com.br
   description: Digital life-insurance platform in Brazil.
@@ -75,9 +81,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: azos
+  slug: azos
+  matched_by: domain
 - name: BandLab
   url: https://bandlab.com
   description: Social music-creation platform and studio.
@@ -85,9 +92,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bandlab
+  slug: bandlab
+  matched_by: domain
 - name: BeConfident
   url: https://beconfident.app
   description: AI-based dental and oral-health consumer app.
@@ -95,9 +103,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: beconfident
+  slug: beconfident
+  matched_by: domain
 - name: Bibit
   url: https://bibit.id
   description: Retail investment and mutual-fund app in Indonesia.
@@ -105,9 +114,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bibit
+  slug: bibit
+  matched_by: domain
 - name: Bilt Rewards
   url: https://biltrewards.com
   description: Loyalty and rewards program for rent payments.
@@ -115,9 +125,10 @@ companies:
   stage: growth
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bilt-rewards
+  slug: bilt-rewards
+  matched_by: domain
 - name: Biome Makers
   url: https://biomemakers.com
   description: Soil microbiome analysis for agriculture.
@@ -125,9 +136,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: biome-makers
+  slug: biome-makers
+  matched_by: domain
 - name: Brainfish
   url: https://brainfishai.com
   description: AI-powered customer support and self-service platform.
@@ -135,9 +147,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: brainfish
+  in_network: true
+  is_api_provider: true
+  slug: brainfish
+  matched_by: domain
 - name: Bykea
   url: https://bykea.com
   description: Ride-hailing, logistics and payments app in Pakistan.
@@ -145,9 +158,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bykea
+  slug: bykea
+  matched_by: domain
 - name: Captain Fresh
   url: https://captainfresh.in
   description: B2B marketplace for fresh fish and seafood.
@@ -155,9 +169,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: captain-fresh
+  slug: captain-fresh
+  matched_by: domain
 - name: Clarity
   url: https://onclarity.com
   description: AI content moderation and deepfake detection.
@@ -165,9 +180,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: clarity
+  slug: clarity
+  matched_by: name-slug
 - name: CodeKarma
   url: https://codekarma.ai
   description: AI-assisted software development platform.
@@ -175,9 +191,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: codekarma
+  slug: codekarma
+  matched_by: domain
 - name: Constantinople
   url: https://cxnpl.com
   description: Banking-as-a-service infrastructure platform.
@@ -185,9 +202,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: constantinople
+  slug: constantinople
+  matched_by: domain
 - name: Corti
   url: https://corti.ai
   description: AI co-pilot for healthcare consultations.
@@ -195,9 +213,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: corti
+  slug: corti
+  matched_by: domain
 - name: CuspAI
   url: https://cusp.ai
   description: AI foundation models for materials discovery.
@@ -205,9 +224,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: cuspai
+  slug: cuspai
+  matched_by: domain
 - name: DappRadar
   url: https://dappradar.com
   description: Analytics platform for decentralized apps and web3.
@@ -215,9 +235,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dappradar
+  slug: dappradar
+  matched_by: domain
 - name: DeHaat
   url: https://agrevolution.in
   description: Full-stack agritech platform for Indian farmers.
@@ -225,9 +246,10 @@ companies:
   stage: series-e
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dehaat
+  slug: dehaat
+  matched_by: domain
 - name: Detect Technologies
   url: https://detecttechnologies.com
   description: Industrial AI and asset-inspection platform.
@@ -235,9 +257,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: detect-technologies
+  slug: detect-technologies
+  matched_by: domain
 - name: Dognosis
   url: https://dognosis.tech
   description: Canine-scent based diagnostics for disease detection.
@@ -245,9 +268,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: dognosis
+  slug: dognosis
+  matched_by: domain
 - name: Dott
   url: https://ridedott.com
   description: Shared e-scooter and e-bike micromobility operator.
@@ -255,7 +279,7 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  slug: tier-mobility
+  slug: dott
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -266,9 +290,10 @@ companies:
   stage: series-f
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: elasticrun
+  slug: elasticrun
+  matched_by: domain
 - name: Endowus
   url: https://endowus.com
   description: Digital wealth-management platform in Asia.
@@ -276,9 +301,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: endowus
+  slug: endowus
+  matched_by: domain
 - name: Ema
   url: https://ema.co
   description: Universal AI employee / agentic automation platform.
@@ -286,9 +312,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ema
+  slug: ema
+  matched_by: domain
 - name: Ethereal Exploration Guild
   url: https://etherealx.space
   description: Reusable rocket and space-launch technology.
@@ -296,9 +323,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ethereal-exploration-guild
+  slug: ethereal-exploration-guild
+  matched_by: domain
 - name: EVERY Company
   url: https://theeverycompany.com
   description: Precision-fermentation animal-free protein producer.
@@ -306,9 +334,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: every-company
+  slug: every-company
+  matched_by: name-slug
 - name: Fashinza
   url: https://fashinza.com
   description: B2B apparel manufacturing and supply-chain platform.
@@ -316,9 +345,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fashinza
+  slug: fashinza
+  matched_by: domain
 - name: Ferra
   url: https://ferra.club
   description: Social commerce and creator platform.
@@ -326,9 +356,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ferra
+  slug: ferra
+  matched_by: domain
 - name: FiberSense
   url: https://fibersense.com
   description: Fiber-optic distributed sensing for infrastructure.
@@ -336,9 +367,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: fibersense
+  slug: fibersense
+  matched_by: domain
 - name: Flexion
   url: https://flexion.ai
   description: AI infrastructure and agent tooling platform.
@@ -346,9 +378,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: flexion
+  slug: flexion
+  matched_by: domain
 - name: Fundamental Research Labs
   url: https://fundamentalresearchlabs.ai
   description: AI research lab building agentic products.
@@ -356,9 +389,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: fundamental-research-labs
+  in_network: true
+  is_api_provider: true
+  slug: fundamental-research-labs
+  matched_by: domain
 - name: GrowXCD
   url: https://growxcd.com
   description: Digital lending and NBFC platform in India.
@@ -366,9 +400,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: growxcd
+  slug: growxcd
+  matched_by: domain
 - name: Good Glamm Group
   url: https://goodglamm.com
   description: Content-to-commerce beauty and personal-care group.
@@ -376,9 +411,10 @@ companies:
   stage: growth
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: good-glamm-group
+  slug: good-glamm-group
+  matched_by: domain
 - name: Honor
   url: https://honorcare.com
   description: Home-care network and technology platform for seniors.
@@ -397,9 +433,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: iniciador
+  slug: iniciador
+  matched_by: domain
 - name: Intella
   url: https://intella.me
   description: Arabic speech-to-text and voice AI platform.
@@ -407,9 +444,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: intella
+  slug: intella
+  matched_by: domain
 - name: KGeN
   url: https://kgen.io
   description: Decentralized gamer network and web3 rewards.
@@ -417,9 +455,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kgen
+  slug: kgen
+  matched_by: domain
 - name: Kismet
   url: https://kismet.healthcare
   description: Healthcare access and navigation platform.
@@ -427,9 +466,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kismet
+  slug: kismet
+  matched_by: domain
 - name: Klar
   url: https://klar.mx
   description: Digital neobank and consumer credit in Mexico.
@@ -437,9 +477,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: klar
+  slug: klar
+  matched_by: domain
 - name: Kovi
   url: https://kovi.com.br
   description: Car subscription and rental for gig drivers in LatAm.
@@ -447,9 +488,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kovi
+  slug: kovi
+  matched_by: domain
 - name: Lastro
   url: https://lastro.co
   description: Real-estate transaction and data platform in Brazil.
@@ -457,9 +499,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: lastro
+  slug: lastro
+  matched_by: domain
 - name: Luzia
   url: https://luzia.com
   description: Consumer AI assistant for Spanish-speaking markets.
@@ -467,9 +510,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: luzia
+  slug: luzia
+  matched_by: domain
 - name: Martian
   url: https://withmartian.com
   description: LLM routing and model-optimization platform.
@@ -488,9 +532,10 @@ companies:
   stage: growth
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: meesho
+  slug: meesho
+  matched_by: domain
 - name: Mensa Brands
   url: https://mensabrands.com
   description: House of digital-first consumer brands.
@@ -498,9 +543,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mensa-brands
+  slug: mensabrands
+  matched_by: domain
 - name: merXu
   url: https://merxu.com
   description: B2B marketplace for industrial goods in Europe.
@@ -508,9 +554,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: merxu
+  slug: merxu
+  matched_by: domain
 - name: Mevo
   url: https://mevo.com.br
   description: Digital pharmacy and telehealth platform in Brazil.
@@ -518,9 +565,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: mevo
+  slug: mevo
+  matched_by: domain
 - name: Neara
   url: https://neara.com
   description: AI-driven digital twin for utility infrastructure.
@@ -528,9 +576,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: neara
+  slug: neara
+  matched_by: domain
 - name: Nexad
   url: https://nex.ad
   description: AI-native advertising platform for agents and apps.
@@ -538,9 +587,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nexad
+  slug: nexad
+  matched_by: domain
 - name: Onsi
   url: https://onsi.com
   description: Home-care benefits and caregiver payments platform.
@@ -548,9 +598,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: onsi
+  in_network: true
+  is_api_provider: true
+  slug: onsi
+  matched_by: domain
 - name: Orbii
   url: https://orbii.ai
   description: AI commerce and shopping-assistant platform.
@@ -558,9 +609,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: orbii
+  in_network: true
+  is_api_provider: true
+  slug: orbii
+  matched_by: domain
 - name: Oxford Ionics
   url: https://oxionics.com
   description: Trapped-ion quantum-computing hardware.
@@ -568,9 +620,10 @@ companies:
   stage: series-b
   status: acquired
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: oxford-ionics
+  slug: oxford-ionics
+  matched_by: domain
 - name: PharmEasy
   url: https://pharmeasy.in
   description: Online pharmacy and healthcare marketplace in India.
@@ -578,9 +631,10 @@ companies:
   stage: growth
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: pharmeasy
+  slug: pharmeasy
+  matched_by: domain
 - name: Plerion
   url: https://plerion.com
   description: Cloud security posture management platform.
@@ -588,9 +642,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: plerion
+  in_network: true
+  is_api_provider: true
+  slug: plerion
+  matched_by: domain
 - name: Praan
   url: https://praan.io
   description: Filterless air-purification and clean-air technology.
@@ -598,9 +653,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: praan
+  slug: praan
+  matched_by: domain
 - name: Prime Roots
   url: https://primeroots.com
   description: Koji-based plant protein for the deli aisle.
@@ -608,9 +664,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: prime-roots
+  slug: prime-roots
+  matched_by: domain
 - name: Qeen.AI
   url: https://qeen.ai
   description: Agentic AI for e-commerce merchandising.
@@ -618,9 +675,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: qeenai
+  slug: qeenai
+  matched_by: domain
 - name: QOSMIC
   url: https://qosmic.space
   description: Space technology and satellite systems.
@@ -628,9 +686,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: qosmic
+  slug: qosmic
+  matched_by: domain
 - name: Quick Ride
   url: https://quickride.in
   description: Carpooling and ride-sharing platform in India.
@@ -638,9 +697,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: quick-ride
+  slug: quick-ride
+  matched_by: domain
 - name: Rain
   url: https://rainapp.com
   description: Stablecoin card-issuing and payments infrastructure.
@@ -648,9 +708,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: rain
+  slug: rain
+  matched_by: name-slug
 - name: Republic
   url: https://republic.com
   description: Retail private-markets investment platform.
@@ -658,9 +719,10 @@ companies:
   stage: growth
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: republic
+  slug: republic
+  matched_by: domain
 - name: Sabi
   url: https://sabi.com
   description: B2B commerce and distribution network in Africa.
@@ -668,9 +730,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sabi
+  slug: sabi
+  matched_by: domain
 - name: Shipper
   url: https://shipper.id
   description: Logistics and fulfillment platform in Indonesia.
@@ -678,9 +741,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: shipper
+  slug: shipper
+  matched_by: domain
 - name: ShopUp
   url: https://shopup.org
   description: B2B commerce platform for small retailers in Bangladesh.
@@ -688,9 +752,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: shopup
+  in_network: true
+  is_api_provider: true
+  slug: shopup
+  matched_by: domain
 - name: Spendflo
   url: https://spendflo.com
   description: SaaS procurement and spend-optimization platform.
@@ -720,9 +785,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: superside
+  slug: superside
+  matched_by: domain
 - name: Taktile
   url: https://taktile.com
   description: Decisioning infrastructure for financial-services risk.
@@ -730,9 +796,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: taktile
+  slug: taktile
+  matched_by: domain
 - name: Thndr
   url: https://thndr.app
   description: Commission-free investing and trading app in MENA.
@@ -740,9 +807,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: thndr
+  slug: thndr
+  matched_by: domain
 - name: Tierra Biosciences
   url: https://tierrabiosciences.com
   description: Cell-free protein synthesis and bio-discovery.
@@ -750,9 +818,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tierra-biosciences
+  slug: tierra-biosciences
+  matched_by: domain
 - name: Tonik
   url: https://tonikbank.com
   description: Digital neobank in the Philippines.
@@ -760,9 +829,10 @@ companies:
   stage: series-b
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tonik
+  slug: tonik
+  matched_by: domain
 - name: Ula
   url: https://ula.app
   description: B2B commerce and inventory financing in Indonesia.
@@ -770,9 +840,10 @@ companies:
   stage: series-b
   status: dead
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ula
+  slug: ula
+  matched_by: domain
 - name: Urban Company
   url: https://urbancompany.com
   description: Home and beauty services marketplace.
@@ -780,9 +851,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: urban-company
+  slug: urbancompany
+  matched_by: domain
 - name: Ursula
   url: https://ursula.ai
   description: AI operations and automation platform.
@@ -790,9 +862,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ursula
+  slug: ursula
+  matched_by: domain
 - name: Vegrow
   url: https://vegrow.in
   description: Full-stack B2B fruit and produce marketplace in India.
@@ -800,9 +873,10 @@ companies:
   stage: series-c
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: vegrow
+  slug: vegrow
+  matched_by: domain
 - name: Virgio
   url: https://virgio.com
   description: Sustainable fast-fashion D2C brand in India.
@@ -810,9 +884,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: virgio
+  slug: virgio
+  matched_by: domain
 - name: VOA Health
   url: https://voa.health
   description: AI clinical documentation for healthcare providers.
@@ -820,9 +895,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: voa-health
+  in_network: true
+  is_api_provider: true
+  slug: voa-health
+  matched_by: domain
 - name: watchTowr
   url: https://watchtowr.com
   description: Continuous attack-surface and exposure management.
@@ -830,9 +906,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: watchtowr
+  in_network: true
+  is_api_provider: true
+  slug: watchtowr
+  matched_by: domain
 - name: Zapia
   url: https://zapia.com
   description: Consumer AI assistant for Latin America.
@@ -840,9 +917,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zapia
+  slug: zapia
+  matched_by: domain
 - name: Zest Equity
   url: https://zestequity.com
   description: Digital platform for private-market equity transactions.
@@ -850,9 +928,10 @@ companies:
   stage: seed
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
-  is_api_provider: false
-  suggested_slug: zest-equity
+  in_network: true
+  is_api_provider: true
+  slug: zest-equity
+  matched_by: domain
 - name: Zypl
   url: https://zypl.ai
   description: Synthetic-data AI for credit risk in emerging markets.
@@ -860,6 +939,7 @@ companies:
   stage: series-a
   status: active
   source: https://www.prosus.com/prosus-ventures
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: zypl
+  slug: zypl
+  matched_by: domain

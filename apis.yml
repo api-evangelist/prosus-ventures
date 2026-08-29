@@ -14,6 +14,17 @@ description: >-
   including roughly $88 million into AI. Its public portfolio spans 80+ companies including Meesho, Urban
   Company, PharmEasy, Klar, ElasticRun, BandLab, Ema, Corti and Oxford Ionics. The venture team is led by
   CEO Martin Tschopp with regional heads across India, Europe, Southeast Asia and the Middle East.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown

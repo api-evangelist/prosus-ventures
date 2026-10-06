@@ -40,7 +40,7 @@ image: https://www.prosus.com/favicon.ico
 x-type: venture-capital
 x-category: Corporate VC
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 tags:
   - Venture Capital
@@ -78,6 +78,8 @@ tags_raw:
   - Amsterdam
 apis: []
 common:
+  - url: https://www.prosus.com/rss/group-updates
+    type: BlogRSS
   - type: Website
     url: https://www.prosus.com/
   - type: Portfolio
